@@ -1,0 +1,23 @@
+#body {
+    padding: 20px;
+}
+
+.animal-gif {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#gif-area {
+    padding: 20px;
+}
+
+#add-animals {
+    padding-right: 15px;
+    margin: 15px;
+}
+
+#submitNewAnimal {
+    margin-top: 5px;
+    
+}
+
