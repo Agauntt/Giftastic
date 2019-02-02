@@ -1,5 +1,6 @@
 #body {
     padding: 20px;
+    margin: 20px;
 }
 
 .animal-gif {
@@ -9,6 +10,10 @@
 
 #gif-area {
     padding: 20px;
+    margin-left: 25px;
+    margin-top: 10px;
+    border-width: 1.5px;
+    border-style: solid;
 }
 
 #add-animals {

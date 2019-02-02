@@ -35,8 +35,8 @@ function initialAnimals(){
                 var animalImage = $("<img>");
                 animalImage.attr("src", results[i].images.fixed_height.url);
     
-                card.prepend(p);
-                card.prepend(animalImage);
+                $("#gif-area").prepend(p);
+                $("#gif-area").prepend(animalImage);
             }
         });
     });
